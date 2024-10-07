@@ -441,7 +441,9 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Learn AI
+
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
+- [AWS Learn about AI/ML](https://aws.amazon.com/training/learn-about/machine-learning/?nc1=h_ls) : Whether you’re new to artificial intelligence and machine learning, or an experienced builder, develop your knowledge and skills with training curated by the experts at AWS.
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [TypeDB](https://vaticle.com) : A Strongly-typed Database
 - [Robots that learn](https://openai.com/research/robots-that-learn) : Robots that Learn
